@@ -3,4 +3,4 @@ Username: admin
 Password: 12345   
 
 Note for config.php!
-#If installed on a sub-folder, replace the empty constant with the folder's name
+#If installed on a sub-folder, replace the empty constant (second parameter) with the folder's name
