@@ -1,0 +1,6 @@
+# Default Admin Login
+Username: admin  
+Password: 12345   
+
+Note for config.php!
+#If installed on a sub-folder, replace the empty constant with the folder's name
